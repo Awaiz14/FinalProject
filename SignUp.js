@@ -55,7 +55,7 @@ function validateForm() { //Create function which validates form
     // Can add more validation checks if you have more input boxes
     
     alert("You are now a member!"); //Alert when all details are entered succesfully with no errors
-    window.location.href = "HomePage.html"; //Takes user to homepage once signed up
+    window.location.href = "index.html"; //Takes user to homepage once signed up
     return true;
    
 }
